@@ -1,0 +1,12 @@
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/bin/Debug/net9.0/MyRootLib.deps.json
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/bin/Debug/net9.0/MyRootLib.dll
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/bin/Debug/net9.0/MyRootLib.pdb
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/obj/Debug/net9.0/MyRootLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/obj/Debug/net9.0/MyRootLib.AssemblyInfoInputs.cache
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/obj/Debug/net9.0/MyRootLib.AssemblyInfo.cs
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/obj/Debug/net9.0/MyRootLib.csproj.CoreCompileInputs.cache
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/obj/Debug/net9.0/MyRootLib.sourcelink.json
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/obj/Debug/net9.0/MyRootLib.dll
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/obj/Debug/net9.0/refint/MyRootLib.dll
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/obj/Debug/net9.0/MyRootLib.pdb
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyRootLib/obj/Debug/net9.0/ref/MyRootLib.dll

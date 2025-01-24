@@ -1,0 +1,12 @@
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/bin/Debug/net9.0/MyMinLab.deps.json
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/bin/Debug/net9.0/MyMinLab.dll
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/bin/Debug/net9.0/MyMinLab.pdb
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/obj/Debug/net9.0/MyMinLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/obj/Debug/net9.0/MyMinLab.AssemblyInfoInputs.cache
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/obj/Debug/net9.0/MyMinLab.AssemblyInfo.cs
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/obj/Debug/net9.0/MyMinLab.csproj.CoreCompileInputs.cache
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/obj/Debug/net9.0/MyMinLab.sourcelink.json
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/obj/Debug/net9.0/MyMinLab.dll
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/obj/Debug/net9.0/refint/MyMinLab.dll
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/obj/Debug/net9.0/MyMinLab.pdb
+/Users/safia/Desktop/Visual Studio Code/Repos/cs13net9/code/Chapter04/MyMinLab/obj/Debug/net9.0/ref/MyMinLab.dll
